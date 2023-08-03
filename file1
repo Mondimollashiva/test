@@ -1,0 +1,23 @@
+Devops is a process
+Devops is a method
+
+lifecycle of devops is 
+plan code build test release deply operate moniotor 
+
+Devops means implementing automation in each and every stage
+
+stages in DEVOPS
+1) VERSION CONTROL SYSTEM 
+	in this we are maitaining different versions of codes
+2) continuous integration
+	in this developers regularly merge their code to the central repo
+	build and test of code is going on 
+	uild and run are going on
+	build test integration
+
+3) CONTINUOUS DELIVERY
+	Deployment the build app  test server
+4) Deployment the test app on the production server for release
+
+Devops is a methodology which allows one team to maintain life cycle of an application like testing,development,deployment,releases
+by usimg devops methos we can achieve a software in reliable quality efficient
